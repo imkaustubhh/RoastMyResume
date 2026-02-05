@@ -1,0 +1,40 @@
+# Backend - Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+backend/.Python
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+backend/.env
+
+# Frontend - Flutter
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/.packages
+frontend/.pub-cache/
+frontend/.pub/
+frontend/build/
+frontend/flutter_*.png
+frontend/linked_*.ds
+frontend/unlinked.ds
+frontend/unlinked_spec.ds
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Claude
+.claude/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
